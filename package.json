@@ -1,0 +1,24 @@
+{
+  "name": "node-mailer-exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {
+    "nodemailer": "^4.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlyon87/node-mailer-exp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlyon87/node-mailer-exp/issues"
+  },
+  "homepage": "https://github.com/jlyon87/node-mailer-exp#readme"
+}
